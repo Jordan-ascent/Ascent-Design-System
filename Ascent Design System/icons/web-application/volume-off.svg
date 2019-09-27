@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="13px" viewBox="0 0 13 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>icons/web-application/volume-off</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/web-application/volume-off" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="volume-off" transform="translate(0.000000, 2.000000)" fill="#676A6C" fill-rule="nonzero">
+            <path d="M5.2328726,0.186528497 L3.06670673,2.26165803 L0.584134615,2.26165803 C0.261525975,2.26165803 0,2.51219299 0,2.82124352 L0,6.17875648 C0,6.48780701 0.261525975,6.73834197 0.584134615,6.73834197 L3.06816707,6.73834197 L5.2328726,8.8134715 C5.59795673,9.16321244 6.23076923,8.9176943 6.23076923,8.41709845 L6.23076923,0.582901554 C6.23076923,0.0823056995 5.59795673,-0.163212435 5.2328726,0.186528497 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

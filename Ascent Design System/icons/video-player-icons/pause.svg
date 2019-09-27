@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="13px" viewBox="0 0 13 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>icons/video-player-icons/pause</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/video-player-icons/pause" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="pause" fill="#676A6C" fill-rule="nonzero">
+            <path d="M4.17857143,13 L1.39285714,13 C0.623883929,13 0,12.3761161 0,11.6071429 L0,1.39285714 C0,0.623883929 0.623883929,0 1.39285714,0 L4.17857143,0 C4.94754464,0 5.57142857,0.623883929 5.57142857,1.39285714 L5.57142857,11.6071429 C5.57142857,12.3761161 4.94754464,13 4.17857143,13 Z M13,11.6071429 L13,1.39285714 C13,0.623883929 12.3761161,0 11.6071429,0 L8.82142857,0 C8.05245536,0 7.42857143,0.623883929 7.42857143,1.39285714 L7.42857143,11.6071429 C7.42857143,12.3761161 8.05245536,13 8.82142857,13 L11.6071429,13 C12.3761161,13 13,12.3761161 13,11.6071429 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

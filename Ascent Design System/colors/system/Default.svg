@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="54px" viewBox="0 0 70 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Default button</title>
+    <desc>Created with Sketch.</desc>
+    <g id="colors" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-184.000000, -127.000000)" id="Default-button">
+            <g transform="translate(184.000000, 127.000000)">
+                <rect id="Rectangle-Copy-5" fill="#FFFFFF" x="0" y="0" width="70" height="54"></rect>
+                <g id="Group-Copy-5" transform="translate(10.000000, 12.500000)" fill="#444444" font-family="Muli-Regular, Muli" font-weight="normal">
+                    <text id="#FFFFFF" font-size="12" letter-spacing="0.09395592">
+                        <tspan x="0.76715428" y="26">#FFFFFF</tspan>
+                    </text>
+                    <text id="default" font-size="10" letter-spacing="0.0782966">
+                        <tspan x="8.0259619" y="10">default</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

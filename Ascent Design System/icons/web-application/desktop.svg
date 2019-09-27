@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="12px" viewBox="0 0 13 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>icons/web-application/desktop</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/web-application/desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M11.9166667,0 L1.08333333,0 C0.485243056,0 0,0.50390625 0,1.125 L0,8.625 C0,9.24609375 0.485243056,9.75 1.08333333,9.75 L5.41666667,9.75 L5.05555556,10.875 L3.43055556,10.875 C3.13038194,10.875 2.88888889,11.1257812 2.88888889,11.4375 C2.88888889,11.7492188 3.13038194,12 3.43055556,12 L9.56944444,12 C9.86961806,12 10.1111111,11.7492188 10.1111111,11.4375 C10.1111111,11.1257812 9.86961806,10.875 9.56944444,10.875 L7.94444444,10.875 L7.58333333,9.75 L11.9166667,9.75 C12.5147569,9.75 13,9.24609375 13,8.625 L13,1.125 C13,0.50390625 12.5147569,0 11.9166667,0 Z M11.5555556,8.25 L1.44444444,8.25 L1.44444444,1.5 L11.5555556,1.5 L11.5555556,8.25 Z" id="Shape" fill="#676A6C" fill-rule="nonzero"></path>
+    </g>
+</svg>

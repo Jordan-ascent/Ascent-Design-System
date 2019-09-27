@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="9px" viewBox="0 0 13 9" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>icons/web-application/inbox</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/web-application/inbox" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M12.8180451,4.21659375 L10.4327257,0.500953125 C10.2317914,0.187988664 9.89354058,0 9.53132465,0 L3.46867535,0 C3.10646438,0 2.76821832,0.187985969 2.56729687,0.500953125 L0.181954861,4.21659375 C0.0633091054,4.40138595 0,4.6185167 0,4.84061719 L0,7.875 C0,8.49632812 0.485017361,9 1.08333333,9 L11.9166667,9 C12.5149826,9 13,8.49632812 13,7.875 L13,4.84061719 C13,4.6185167 12.9366909,4.40138595 12.8180451,4.21659375 Z M3.6619375,2 L9.33808507,2 L11.2640035,5 L8.48611111,5 L7.76388889,6.5 L5.23611111,6.5 L4.51388889,5 L1.73599653,5 L3.6619375,2 Z" id="Shape" fill="#676A6C" fill-rule="nonzero"></path>
+    </g>
+</svg>

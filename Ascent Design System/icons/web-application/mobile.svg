@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="13px" viewBox="0 0 13 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>icons/web-application/mobile</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/web-application/mobile" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="mobile-alt" transform="translate(3.000000, 0.000000)" fill="#676A6C" fill-rule="nonzero">
+            <path d="M6.8,0 L1.2,0 C0.5375,0 0,0.545898438 0,1.21875 L0,11.78125 C0,12.4541016 0.5375,13 1.2,13 L6.8,13 C7.4625,13 8,12.4541016 8,11.78125 L8,1.21875 C8,0.545898438 7.4625,0 6.8,0 Z M4,12.1875 C3.5575,12.1875 3.2,11.8244141 3.2,11.375 C3.2,10.9255859 3.5575,10.5625 4,10.5625 C4.4425,10.5625 4.8,10.9255859 4.8,11.375 C4.8,11.8244141 4.4425,12.1875 4,12.1875 Z M6.8,9.4453125 C6.8,9.61289063 6.665,9.75 6.5,9.75 L1.5,9.75 C1.335,9.75 1.2,9.61289063 1.2,9.4453125 L1.2,1.5234375 C1.2,1.35585937 1.335,1.21875 1.5,1.21875 L6.5,1.21875 C6.665,1.21875 6.8,1.35585937 6.8,1.5234375 L6.8,9.4453125 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

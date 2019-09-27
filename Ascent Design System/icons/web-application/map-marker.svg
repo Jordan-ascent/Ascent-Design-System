@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="13px" viewBox="0 0 10 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>icons/web-application/map-marker</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/web-application/map-marker" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="map-marker-alt" fill="#676A6C" fill-rule="nonzero">
+            <path d="M4.48614583,12.7377148 C0.70234375,7.38945898 0,6.84056445 0,4.875 C0,2.18260352 2.23856771,0 5,0 C7.76143229,0 10,2.18260352 10,4.875 C10,6.84056445 9.29765625,7.38945898 5.51385417,12.7377148 C5.26554688,13.0874453 4.73442708,13.0874199 4.48614583,12.7377148 Z M5,6.90625 C6.15059896,6.90625 7.08333333,5.99683398 7.08333333,4.875 C7.08333333,3.75316602 6.15059896,2.84375 5,2.84375 C3.84940104,2.84375 2.91666667,3.75316602 2.91666667,4.875 C2.91666667,5.99683398 3.84940104,6.90625 5,6.90625 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="13px" viewBox="0 0 13 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>icons/form-controls/minus-square-o</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/form-controls/minus-square-o" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M3.328125,7 C3.14765625,7 3,6.90357143 3,6.78571429 L3,6.21428571 C3,6.09642857 3.14765625,6 3.328125,6 L9.671875,6 C9.85234375,6 10,6.09642857 10,6.21428571 L10,6.78571429 C10,6.90357143 9.85234375,7 9.671875,7 L3.328125,7 Z" id="Path" fill="#676A6C" fill-rule="nonzero"></path>
+        <rect id="Rectangle" stroke="#676A6C" x="0.5" y="0.5" width="12" height="12" rx="2"></rect>
+    </g>
+</svg>

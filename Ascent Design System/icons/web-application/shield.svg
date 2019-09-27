@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="13px" viewBox="0 0 12 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>icons/web-application/shield</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/web-application/shield" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="shield-alt" fill="#676A6C" fill-rule="nonzero">
+            <path d="M11.2625,2.12519531 L6.4625,0.0939453125 C6.16720062,-0.0304708909 5.83529938,-0.0304708909 5.54,0.0939453125 L0.74,2.12519531 C0.2925,2.31308594 0,2.75742188 0,3.25 C0,8.29003906 2.8625,11.7736328 5.5375,12.9060547 C5.8325,13.0304688 6.165,13.0304688 6.46,12.9060547 C8.6025,11.9996094 12,8.86894531 12,3.25 C12,2.75742188 11.7075,2.31308594 11.2625,2.12519531 Z M6.0025,11.3318359 L6,1.65800781 L10.3975,3.51914063 C10.315,7.36328125 8.345,10.1486328 6.0025,11.3318359 L6.0025,11.3318359 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

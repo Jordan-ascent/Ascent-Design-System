@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="13px" viewBox="0 0 13 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>icons/directional-icons/chevron-down</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/directional-icons/chevron-down" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="chevron-down" transform="translate(0.000000, -0.000000)" fill="#676A6C" fill-rule="nonzero">
+            <path d="M5.99629452,7.77371429 L0.228123288,1.92878195 C-0.0500707763,1.64688722 -0.0500707763,1.18986466 0.228123288,0.908 L0.900888128,0.226285714 C1.17860731,-0.0551278195 1.62871005,-0.0556691729 1.90708219,0.225082707 L6.5,4.85729323 L11.0928881,0.225082707 C11.3712603,-0.0556691729 11.821363,-0.0551278195 12.0990822,0.226285714 L12.771847,0.908 C13.0500411,1.18989474 13.0500411,1.64691729 12.771847,1.92878195 L7.00370548,7.77371429 C6.72551142,8.05557895 6.27448858,8.05557895 5.99629452,7.77371429 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

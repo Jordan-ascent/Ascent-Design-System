@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="55px" viewBox="0 0 70 55" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Primary Color</title>
+    <desc>Created with Sketch.</desc>
+    <g id="colors" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-104.000000, -26.000000)" id="Primary-Color">
+            <g transform="translate(104.000000, 26.000000)">
+                <g id="Colors/Primary" fill="#28BEBB">
+                    <rect id="Rectangle" x="0" y="0" width="70" height="55"></rect>
+                </g>
+                <g id="Group-6" transform="translate(5.000000, 14.000000)" fill="#FFFFFF" font-family="Muli-Regular, Muli" font-weight="normal">
+                    <text id="#28BEBB" font-size="12" letter-spacing="0.09395592">
+                        <tspan x="4.04915428" y="24">#28BEBB</tspan>
+                    </text>
+                    <text id="Medium-Mint" font-size="10" letter-spacing="0.0782966">
+                        <tspan x="0.2193687" y="10">Medium Mint</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

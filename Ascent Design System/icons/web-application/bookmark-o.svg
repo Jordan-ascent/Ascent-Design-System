@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="10px" height="13px" viewBox="0 0 10 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>icons/web-application/bookmark-o</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/web-application/bookmark-o" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bookmark" fill="#676A6C" fill-rule="nonzero">
+            <path d="M8.75,0 L1.25,0 C0.559635417,0 0,0.545644531 0,1.21875 L0,13 L5,10.15625 L10,13 L10,1.21875 C10,0.545644531 9.44036458,0 8.75,0 Z M8.75,10.8781055 L5,8.74529297 L1.25,10.8781055 L1.25,1.37109375 C1.25,1.28695662 1.31995551,1.21875 1.40625,1.21875 L8.59375,1.21875 C8.68005208,1.21875 8.75,1.28687305 8.75,1.37099219 L8.75,10.8781055 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

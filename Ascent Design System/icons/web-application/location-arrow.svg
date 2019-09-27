@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="13px" viewBox="0 0 13 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>icons/web-application/location-arrow</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/web-application/location-arrow" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="location-arrow" fill="#676A6C" fill-rule="nonzero">
+            <path d="M11.2866793,0.0892007797 L0.729728763,4.95216374 C-0.48826373,5.51955166 -0.0822662322,7.30255361 1.21697654,7.30255361 L5.68345683,7.30255361 L5.68345683,11.7603119 C5.68345683,13.0570175 7.46994738,13.4624756 8.03844544,12.2466082 L12.9109232,1.7102729 C13.3169207,0.737426901 12.2611749,-0.31625731 11.2866793,0.0892007797 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

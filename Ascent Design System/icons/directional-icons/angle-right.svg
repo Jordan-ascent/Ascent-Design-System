@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="13px" viewBox="0 0 13 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>icons/directional-icons/angle-right</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/directional-icons/angle-right" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="angle-right" transform="translate(5.000000, 0.000000)" fill="#676A6C" fill-rule="nonzero">
+            <path d="M7.70384615,7.1863354 L2.47307692,12.6770186 C2.11153846,13.0565217 1.52692308,13.0565217 1.16923077,12.6770186 L0.3,11.7645963 C-0.0615384615,11.3850932 -0.0615384615,10.7714286 0.3,10.3959627 L4.00769231,6.50403727 L0.3,2.6121118 C-0.0615384615,2.2326087 -0.0615384615,1.6189441 0.3,1.24347826 L1.16538462,0.322981366 C1.52692308,-0.0565217391 2.11153846,-0.0565217391 2.46923077,0.322981366 L7.7,5.8136646 C8.06538462,6.1931677 8.06538462,6.8068323 7.70384615,7.1863354 L7.70384615,7.1863354 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

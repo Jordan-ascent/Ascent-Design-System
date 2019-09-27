@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="13px" viewBox="0 0 13 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>icons/directional-icons/long-arrow-alt-right</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/directional-icons/long-arrow-alt-right" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="long-arrow-alt-right" transform="translate(0.000000, 4.000000)" fill="#676A6C" fill-rule="nonzero">
+            <path d="M9.10987984,1.91013676 L0.348213703,1.91013676 C0.155912685,1.91013676 0,2.05653081 0,2.23709165 L0,3.76288111 C0,3.94344194 0.155912685,4.08983599 0.348213703,4.08983599 L9.10987984,4.08983599 L9.10987984,5.34477058 C9.10987984,5.92734969 9.86001921,6.21910243 10.2987685,5.80716652 L12.7960121,3.46238232 C13.067996,3.20700331 13.067996,2.79296944 12.7960121,2.53761768 L10.2987685,0.192833478 C9.86004823,-0.21910243 9.10987984,0.0726503119 9.10987984,0.655229423 L9.10987984,1.91013676 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

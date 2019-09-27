@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="13px" viewBox="0 0 13 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>icons/web-application/star-half</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/web-application/star-half" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="star-half" fill="#676A6C" fill-rule="nonzero">
+            <path d="M7,0 C6.70223881,0 6.40447761,0.149804688 6.25037313,0.451953125 L4.54477612,3.81367188 L0.728731343,4.35195313 C0.0444029851,4.4484375 -0.229850746,5.26855469 0.26641791,5.73828125 L3.02723881,8.35351562 L2.37425373,12.0478516 C2.25671642,12.7105469 2.975,13.2158203 3.58619403,12.9035156 L7,11.1617188 L7,0 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

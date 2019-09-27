@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="13px" viewBox="0 0 13 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>icons/form-controls/dot-circle</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/form-controls/dot-circle" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="dot-circle" fill="#676A6C" fill-rule="nonzero">
+            <path d="M6.5,0 C2.91013911,0 0,2.91013911 0,6.5 C0,10.0898609 2.91013911,13 6.5,13 C10.0898609,13 13,10.0898609 13,6.5 C13,2.91013911 10.0898609,0 6.5,0 Z M8.59677419,6.5 C8.59677419,7.65616129 7.65616129,8.59677419 6.5,8.59677419 C5.34383871,8.59677419 4.40322581,7.65616129 4.40322581,6.5 C4.40322581,5.34383871 5.34383871,4.40322581 6.5,4.40322581 C7.65616129,4.40322581 8.59677419,5.34383871 8.59677419,6.5 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

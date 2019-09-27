@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="13px" viewBox="0 0 13 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>icons/directional-icons/chevron-circle-down</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/directional-icons/chevron-circle-down" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="chevron-circle-down" fill="#676A6C" fill-rule="nonzero">
+            <path d="M13,6.5 C13,10.0907258 10.0907258,13 6.5,13 C2.90927419,13 0,10.0907258 0,6.5 C0,2.90927419 2.90927419,0 6.5,0 C10.0907258,0 13,2.90927419 13,6.5 Z M6.94556452,9.48528226 L10.4969758,5.93387097 C10.7433468,5.6875 10.7433468,5.2891129 10.4969758,5.0453629 L10.0514113,4.59979839 C9.80504032,4.35342742 9.40665323,4.35342742 9.16290323,4.59979839 L6.5,7.26270161 L3.83709677,4.59979839 C3.59072581,4.35342742 3.19233871,4.35342742 2.94858871,4.59979839 L2.50302419,5.0453629 C2.25665323,5.29173387 2.25665323,5.69012097 2.50302419,5.93387097 L6.05443548,9.48528226 C6.30080645,9.73165323 6.69919355,9.73165323 6.94556452,9.48528226 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

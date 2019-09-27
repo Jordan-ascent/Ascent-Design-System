@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="13px" viewBox="0 0 13 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>icons/web-application/sort</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/web-application/sort" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="sort" transform="translate(2.000000, 0.000000)" fill="#676A6C" fill-rule="nonzero">
+            <path d="M0.78125,7.54 L8.21875,7.54 C8.8875,7.54 9.221875,8.38175 8.75,8.8725 L5.03125,12.74 C4.7375,13.0455 4.2625,13.0455 3.971875,12.74 L0.25,8.8725 C-0.221875,8.38175 0.1125,7.54 0.78125,7.54 Z M8.75,4.1275 L5.03125,0.26 C4.7375,-0.0455 4.2625,-0.0455 3.971875,0.26 L0.25,4.1275 C-0.221875,4.61825 0.1125,5.46 0.78125,5.46 L8.21875,5.46 C8.8875,5.46 9.221875,4.61825 8.75,4.1275 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

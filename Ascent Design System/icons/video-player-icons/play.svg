@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11px" height="14px" viewBox="0 0 11 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>icons/video-player-icons/play</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/video-player-icons/play" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="play" fill="#676A6C" fill-rule="nonzero">
+            <path d="M10.4208261,5.45114431 L1.77772811,0.167569768 C1.0754764,-0.261514373 0,0.154874971 0,1.21616001 L0,11.7807701 C0,12.7328799 0.999358208,13.3066847 1.77772811,12.8293604 L10.4208261,7.54832479 C11.1918298,7.0786173 11.1942852,5.9208518 10.4208261,5.45114431 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

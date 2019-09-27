@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="13px" viewBox="0 0 8 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>icons/web-application/bolt</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/web-application/bolt" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bolt" fill="#676A6C" fill-rule="nonzero">
+            <path d="M7.40186916,4.0625 L4.5258567,4.0625 L5.58753894,0.766796875 C5.68722741,0.380859375 5.40062305,0 5.00934579,0 L1.42056075,0 C1.12149533,0 0.86728972,0.225976563 0.82741433,0.528125 L0.0299065421,6.621875 C-0.0174454829,6.9875 0.261682243,7.3125 0.62305296,7.3125 L3.58130841,7.3125 L2.43239875,12.2509766 C2.34267913,12.6369141 2.6317757,13 3.01308411,13 C3.22242991,13 3.42180685,12.8882813 3.53146417,12.6953125 L7.91775701,4.9765625 C8.14953271,4.57285156 7.86292835,4.0625 7.40186916,4.0625 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

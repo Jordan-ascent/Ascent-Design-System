@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="33px" viewBox="0 0 120 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>buttons/outlined/hover/default/default</title>
+    <desc>Created with Sketch.</desc>
+    <g id="buttons/outlined/hover/default/default" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="buttons/outlined/default">
+            <g id="buttons/default/rounded">
+                <g id="buttons/default">
+                    <g id="Group-2-Copy-2">
+                        <rect id="Rectangle" stroke="#444444" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="120" height="33" rx="3"></rect>
+                        <text id="Default" font-family="OpenSans-Regular, Open Sans" font-size="13" font-weight="normal" letter-spacing="0.10178558" fill="#444444">
+                            <tspan x="38.012647" y="21">Default</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

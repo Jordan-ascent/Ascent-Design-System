@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="17px" height="13px" viewBox="0 0 17 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>icons/video-player-icons/backward</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/video-player-icons/backward" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="backward" fill="#676A6C" fill-rule="nonzero">
+            <path d="M0.381835938,7.32849741 L6.75683594,12.7170984 C7.44082031,13.2963731 8.5,12.811399 8.5,11.888601 L8.5,1.11139896 C8.5,0.188601036 7.44082031,-0.296373057 6.75683594,0.282901554 L0.381835938,5.67150259 C-0.126171875,6.10259067 -0.126171875,6.89740933 0.381835938,7.32849741 Z M8.88183594,7.32849741 L15.2568359,12.7170984 C15.9408203,13.2963731 17,12.811399 17,11.888601 L17,1.11139896 C17,0.188601036 15.9408203,-0.296373057 15.2568359,0.282901554 L8.88183594,5.67150259 C8.37382812,6.10259067 8.37382812,6.89740933 8.88183594,7.32849741 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

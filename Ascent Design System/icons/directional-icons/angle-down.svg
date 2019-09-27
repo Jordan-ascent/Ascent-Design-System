@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="13px" viewBox="0 0 13 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>icons/directional-icons/angle-down</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/directional-icons/angle-down" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="angle-down" transform="translate(0.000000, 2.000000)" fill="#676A6C" fill-rule="nonzero">
+            <path d="M5.81322288,8.6928848 L0.28649578,2.76839303 C-0.0954985933,2.3589061 -0.0954985933,1.69675702 0.28649578,1.29162633 L1.20490778,0.307115198 C1.58690216,-0.102371733 2.20459519,-0.102371733 2.58252579,0.307115198 L6.5,4.50653437 L10.4174742,0.307115198 C10.7994686,-0.102371733 11.4171616,-0.102371733 11.7950922,0.307115198 L12.7135042,1.29162633 C13.0954986,1.70111326 13.0954986,2.36326234 12.7135042,2.76839303 L7.18677712,8.6928848 C6.81291028,9.10237173 6.19521726,9.10237173 5.81322288,8.6928848 L5.81322288,8.6928848 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

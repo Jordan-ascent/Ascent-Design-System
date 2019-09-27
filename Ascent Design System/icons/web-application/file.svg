@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="13px" viewBox="0 0 13 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>icons/web-application/file</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/web-application/file" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="file" transform="translate(2.000000, 0.000000)" fill="#676A6C" fill-rule="nonzero">
+            <path d="M5.6875,3.453125 L5.6875,0 L0.609375,0 C0.271679687,0 0,0.271679687 0,0.609375 L0,12.390625 C0,12.7283203 0.271679687,13 0.609375,13 L9.140625,13 C9.47832031,13 9.75,12.7283203 9.75,12.390625 L9.75,4.0625 L6.296875,4.0625 C5.96171875,4.0625 5.6875,3.78828125 5.6875,3.453125 Z M9.75,3.09511719 L9.75,3.25 L6.5,3.25 L6.5,0 L6.65488281,0 C6.81738281,0 6.97226563,0.0634765625 7.08652344,0.177734375 L9.57226562,2.66601562 C9.68652344,2.78027344 9.75,2.93515625 9.75,3.09511719 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

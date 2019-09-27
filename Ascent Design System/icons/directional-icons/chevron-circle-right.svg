@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="13px" viewBox="0 0 13 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>icons/directional-icons/chevron-circle-right</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/directional-icons/chevron-circle-right" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="chevron-circle-right" fill="#676A6C" fill-rule="nonzero">
+            <path d="M6.5,0 C10.0907258,0 13,2.90927419 13,6.5 C13,10.0907258 10.0907258,13 6.5,13 C2.90927419,13 0,10.0907258 0,6.5 C0,2.90927419 2.90927419,0 6.5,0 Z M9.48528226,6.05443548 L5.93387097,2.50302419 C5.6875,2.25665323 5.2891129,2.25665323 5.0453629,2.50302419 L4.59979839,2.94858871 C4.35342742,3.19495968 4.35342742,3.59334677 4.59979839,3.83709677 L7.26270161,6.5 L4.59979839,9.16290323 C4.35342742,9.40927419 4.35342742,9.80766129 4.59979839,10.0514113 L5.0453629,10.4969758 C5.29173387,10.7433468 5.69012097,10.7433468 5.93387097,10.4969758 L9.48528226,6.94556452 C9.73165323,6.69919355 9.73165323,6.30080645 9.48528226,6.05443548 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>

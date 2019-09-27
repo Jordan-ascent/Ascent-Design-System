@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="13px" viewBox="0 0 13 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>icons/form-controls/dot-circle-o</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/form-controls/dot-circle-o" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="dot-circle">
+            <circle id="circle-o-copy-2" stroke="#676A6C" cx="6.5" cy="6.5" r="6"></circle>
+            <path d="M6.5,4.40322581 C5.34197782,4.40322581 4.40322581,5.34197782 4.40322581,6.5 C4.40322581,7.65802218 5.34197782,8.59677419 6.5,8.59677419 C7.65802218,8.59677419 8.59677419,7.65802218 8.59677419,6.5 C8.59677419,5.34197782 7.65802218,4.40322581 6.5,4.40322581 Z" id="Path" fill="#676A6C"></path>
+        </g>
+    </g>
+</svg>

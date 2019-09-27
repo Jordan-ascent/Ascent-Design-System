@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="13px" viewBox="0 0 13 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>icons/web-application/share</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/web-application/share" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="share" transform="translate(0.000000, 1.000000)" fill="#676A6C" fill-rule="nonzero">
+            <path d="M12.7890324,3.8668039 L8.32017975,0.143340649 C7.92901169,-0.182617035 7.31250177,0.0819954372 7.31250177,0.588338422 L7.31250177,2.54954778 C3.23403008,2.59460123 0,3.38329388 0,7.11266136 C0,8.61789744 1.00498657,10.1090957 2.11587747,10.8887237 C2.46253575,11.1320222 2.95658665,10.826668 2.82877022,10.432285 C1.67745744,6.87962795 3.37484652,5.93646982 7.31250177,5.88181281 L7.31250177,8.03563241 C7.31250177,8.54275936 7.92949411,8.80619588 8.32017975,8.48063018 L12.7890324,4.75679945 C13.0701321,4.52254109 13.0705129,4.10138074 12.7890324,3.8668039 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

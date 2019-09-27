@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="11px" viewBox="0 0 13 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>icons/web-application/comment</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/web-application/comment" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="comment" fill="#676A6C" fill-rule="nonzero">
+            <path d="M6.76530612,0 C3.43151706,0 0.729591837,2.2859375 0.729591837,5.10714286 C0.729591837,6.325 1.23413983,7.43973214 2.07348135,8.31629464 C1.77876873,9.55379464 0.793249761,10.65625 0.781461256,10.6685268 C0.729591837,10.725 0.715445631,10.8084821 0.746095743,10.8821429 C0.776745855,10.9558036 0.84276148,11 0.918207908,11 C2.4813636,11 3.65314094,10.2191964 4.23313536,9.73794643 C5.00410356,10.0399554 5.85994898,10.2142857 6.76530612,10.2142857 C10.0990952,10.2142857 12.8010204,7.92834821 12.8010204,5.10714286 C12.8010204,2.2859375 10.0990952,0 6.76530612,0 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

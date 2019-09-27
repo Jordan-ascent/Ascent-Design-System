@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="55px" viewBox="0 0 70 55" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Accent - ozone</title>
+    <desc>Created with Sketch.</desc>
+    <g id="colors" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-424.000000, -26.000000)" id="Accent---ozone">
+            <g transform="translate(424.000000, 26.000000)">
+                <g id="Colors/Secondary" fill="#EFF4F9">
+                    <rect id="Rectangle" x="0" y="0" width="70" height="55"></rect>
+                </g>
+                <g id="Group-2" transform="translate(10.000000, 14.000000)" font-family="Muli-Regular, Muli" font-weight="normal">
+                    <text id="#EFF4F9" font-size="12" letter-spacing="0.09395592" fill="#676A6C">
+                        <tspan x="0.17315428" y="24">#EFF4F9</tspan>
+                    </text>
+                    <text id="Ozone" font-size="10" letter-spacing="0.0782966" fill="#4A4A4A">
+                        <tspan x="10.4042585" y="10">Ozone</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

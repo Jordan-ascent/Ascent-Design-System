@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="11px" viewBox="0 0 13 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>icons/web-application/mail-forward</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/web-application/mail-forward" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="share" fill="#676A6C" fill-rule="nonzero">
+            <path d="M12.7890324,3.86680624 L8.32017975,0.143342984 C7.92901169,-0.182614699 7.31250177,0.0819977728 7.31250177,0.588340757 L7.31250177,2.54955011 C3.23403008,2.59460356 0,3.38329621 0,7.1126637 C0,8.61789978 1.00498657,10.109098 2.11587747,10.8887261 C2.46253575,11.1320245 2.95658665,10.8266704 2.82877022,10.4322873 C1.67745744,6.87963029 3.37484652,5.93647216 7.31250177,5.88181514 L7.31250177,8.03563474 C7.31250177,8.54276169 7.92949411,8.80619822 8.32017975,8.48063252 L12.7890324,4.75680178 C13.0701321,4.52254343 13.0705129,4.10138307 12.7890324,3.86680624 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

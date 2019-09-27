@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="11px" viewBox="0 0 13 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>icons/web-application/mail-backward</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/web-application/mail-backward" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="reply" fill="#676A6C" fill-rule="nonzero">
+            <path d="M0.210970754,3.86680624 L4.6798234,0.143342984 C5.07099146,-0.182614699 5.68750138,0.0819977728 5.68750138,0.588340757 L5.68750138,2.54955011 C9.76597307,2.59460356 13.0000031,3.38329621 13.0000031,7.1126637 C13.0000031,8.61789978 11.9950166,10.109098 10.8841257,10.8887261 C10.5374674,11.1320245 10.0434165,10.8266704 10.1712329,10.4322873 C11.3225457,6.87965479 9.62515663,5.93649666 5.68750138,5.88181514 L5.68750138,8.03563474 C5.68750138,8.54276169 5.07050904,8.80619822 4.6798234,8.48063252 L0.210970754,4.75680178 C-0.0701289232,4.52254343 -0.0705097827,4.10138307 0.210970754,3.86680624 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

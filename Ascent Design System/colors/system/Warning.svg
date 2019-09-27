@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="54px" viewBox="0 0 70 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>Warning button</title>
+    <desc>Created with Sketch.</desc>
+    <g id="colors" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-424.000000, -127.000000)" id="Warning-button">
+            <g transform="translate(424.000000, 127.000000)">
+                <rect id="Rectangle-Copy-3" fill="#F8AC59" x="0" y="0" width="70" height="54"></rect>
+                <g id="Group-Copy-3" transform="translate(8.000000, 12.500000)" fill="#FFFFFF" font-family="Muli-Regular, Muli" font-weight="normal">
+                    <text id="#1AB394" font-size="12" letter-spacing="0.09395592">
+                        <tspan x="0" y="26">#1AB394</tspan>
+                    </text>
+                    <text id="warning" font-size="10" letter-spacing="0.0782966">
+                        <tspan x="8.0409619" y="10">warning</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

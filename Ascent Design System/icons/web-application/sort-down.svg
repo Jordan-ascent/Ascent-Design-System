@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="8px" viewBox="0 0 14 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>icons/web-application/sort-down</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/web-application/sort-down" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="sort-down" fill="#676A6C" fill-rule="nonzero">
+            <path d="M1.1355665,0 L11.9487817,0 C12.9210624,0 13.4072027,1.23333333 12.7211542,1.95238095 L7.31454659,7.61904762 C6.88747003,8.06666667 6.19687814,8.06666667 5.77434494,7.61904762 L0.363193991,1.95238095 C-0.322854534,1.23333333 0.163285812,0 1.1355665,0 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

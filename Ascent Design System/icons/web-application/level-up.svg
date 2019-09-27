@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="13px" viewBox="0 0 8 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>icons/web-application/level-up</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/web-application/level-up" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="level-up-alt" fill="#676A6C" fill-rule="nonzero">
+            <path d="M7.838825,3.0384707 L5.239675,0.194644531 C5.00255,-0.0646953125 4.597775,-0.0650761719 4.360325,0.194644531 L1.76095,3.0384707 C1.4058,3.42694727 1.67655,4.0625 2.200625,4.0625 L3.8,4.0625 L3.8,10.96875 L1.7006,10.96875 C1.62103429,10.9687426 1.54472681,11.0008477 1.488475,11.057998 L0.088475,12.479873 C-0.100525,12.6718008 0.033325,12.9999968 0.3006,12.9999968 L5.2,12.9999968 C5.531375,12.9999968 5.8,12.7271777 5.8,12.390625 L5.8,4.0625 L7.39915,4.0625 C7.9211,4.0625 8.195425,3.42852148 7.838825,3.0384707 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

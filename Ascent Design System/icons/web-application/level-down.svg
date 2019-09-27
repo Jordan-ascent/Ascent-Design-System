@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="13px" viewBox="0 0 8 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>icons/web-application/level-down</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/web-application/level-down" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="level-down-alt" fill="#676A6C" fill-rule="nonzero">
+            <path d="M7.838825,9.9615293 L5.239675,12.8053555 C5.00255,13.0646953 4.597775,13.0650762 4.360325,12.8053555 L1.76095,9.9615293 C1.4058,9.57305273 1.67655,8.9375 2.200625,8.9375 L3.8,8.9375 L3.8,2.03125 L1.7006,2.03125 C1.62103429,2.03125737 1.54472681,1.99915227 1.488475,1.94200195 L0.088475,0.520126953 C-0.100525,0.328199219 0.033325,0 0.3006,0 L5.2,0 C5.531375,0 5.8,0.272822266 5.8,0.609375 L5.8,8.9375 L7.39915,8.9375 C7.9211,8.9375 8.195425,9.57147852 7.838825,9.9615293 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

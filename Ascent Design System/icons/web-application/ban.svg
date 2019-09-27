@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="13px" viewBox="0 0 13 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>icons/web-application/ban</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/web-application/ban" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M6.5,0 C2.91016532,0 0,2.91013911 0,6.5 C0,10.0898609 2.91016532,13 6.5,13 C10.0898347,13 13,10.0898347 13,6.5 C13,2.91016532 10.0898609,0 6.5,0 Z M9.91008871,3.08991129 C11.6254597,4.80528226 11.7447661,7.42711492 10.4520262,9.26588105 L3.73409274,2.548 C5.57411694,1.25439516 8.19566129,1.37551008 9.91008871,3.08991129 Z M3.08991129,9.91008871 C1.37454032,8.19471774 1.25523387,5.57288508 2.54797379,3.73411895 L9.26590726,10.452 C7.42590927,11.7456048 4.80433871,11.6245161 3.08991129,9.91008871 Z" id="Shape" fill="#676A6C" fill-rule="nonzero"></path>
+    </g>
+</svg>

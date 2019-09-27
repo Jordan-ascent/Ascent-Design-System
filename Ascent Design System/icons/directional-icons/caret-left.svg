@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="5px" height="8px" viewBox="0 0 5 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>icons/directional-icons/caret-left</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/directional-icons/caret-left" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="caret-left" fill="#676A6C" fill-rule="nonzero">
+            <path d="M4.97058824,0.545986577 L4.97058824,7.45401342 C4.97058824,7.93234899 4.33697059,8.17189262 3.96641176,7.83366443 L0.182235294,4.37965101 C-0.0474705882,4.16998658 -0.0474705882,3.83001342 0.182235294,3.62034899 L3.96641176,0.16633557 C4.33697059,-0.171919463 4.97058824,0.0676510067 4.97058824,0.545986577 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

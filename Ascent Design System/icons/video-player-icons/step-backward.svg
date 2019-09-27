@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="9px" height="13px" viewBox="0 0 9 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>icons/video-player-icons/step-backward</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/video-player-icons/step-backward" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="step-backward" fill="#676A6C" fill-rule="nonzero">
+            <path d="M0,12.6244444 L0,0.375555556 C0,0.184888889 0.151875,0.0288888889 0.3375,0.0288888889 L1.6875,0.0288888889 C1.873125,0.0288888889 2.025,0.184888889 2.025,0.375555556 L2.025,5.47155556 L7.5234375,0.242666667 C8.1028125,-0.251333333 9,0.161777778 9,0.953333333 L9,12.0466667 C9,12.8382222 8.1028125,13.2513333 7.5234375,12.7573333 L2.025,7.56022222 L2.025,12.6244444 C2.025,12.8151111 1.873125,12.9711111 1.6875,12.9711111 L0.3375,12.9711111 C0.151875,12.9711111 0,12.8151111 0,12.6244444 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

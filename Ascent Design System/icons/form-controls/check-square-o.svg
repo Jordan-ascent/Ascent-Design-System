@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="13px" viewBox="0 0 13 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>icons/form-controls/check-square-o</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/form-controls/check-square-o" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="check-square" transform="translate(2.000000, 3.000000)" fill="#676A6C" fill-rule="nonzero">
+            <path d="M8.56644643,1.59283036 L3.55828348,6.56080357 C3.42175446,6.69622991 3.20127679,6.69535938 3.06585045,6.55883036 L0.431580357,3.90323214 C0.296154018,3.76670313 0.297024554,3.54622545 0.433582589,3.41077009 L1.09283929,2.75682366 C1.2293683,2.62139732 1.44984598,2.62226786 1.58527232,2.75882589 L3.32030804,4.50793527 L7.42204018,0.439167411 C7.5585692,0.303741071 7.77904688,0.304611607 7.91447321,0.441140625 L8.56841964,1.1003683 C8.70384598,1.23692634 8.70297545,1.45740402 8.56644643,1.59283036 Z" id="Shape"></path>
+        </g>
+        <rect id="Rectangle" stroke="#676A6C" x="0.5" y="0.5" width="12" height="12" rx="2"></rect>
+    </g>
+</svg>

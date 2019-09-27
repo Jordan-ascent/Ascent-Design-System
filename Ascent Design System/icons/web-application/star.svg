@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="12px" viewBox="0 0 13 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>icons/web-application/star</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/web-application/star" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="star" fill="#676A6C" fill-rule="nonzero">
+            <path d="M5.80391791,0.438910506 L4.22014925,3.52996109 L0.676679104,4.02723735 C0.0412313433,4.11595331 -0.213432836,4.87003891 0.24738806,5.30194553 L2.81100746,7.70661479 L2.20466418,11.1035019 C2.09552239,11.7175097 2.76735075,12.1774319 3.33003731,11.8902724 L6.5,10.2863813 L9.66996269,11.8902724 C10.2326493,12.1750973 10.9044776,11.7175097 10.7953358,11.1035019 L10.1889925,7.70661479 L12.7526119,5.30194553 C13.2134328,4.87003891 12.9587687,4.11595331 12.3233209,4.02723735 L8.77985075,3.52996109 L7.19608209,0.438910506 C6.91231343,-0.112062257 6.09011194,-0.119066148 5.80391791,0.438910506 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

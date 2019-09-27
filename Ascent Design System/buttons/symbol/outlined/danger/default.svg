@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="33px" viewBox="0 0 33 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>buttons / symbol / outlined / danger / default</title>
+    <desc>Created with Sketch.</desc>
+    <g id="buttons-/-symbol-/-outlined-/-danger-/-default" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="buttons/symbol/danger/default" fill="#FFFFFF" stroke="#ED5565">
+            <g id="Group-22">
+                <rect id="Rectangle-Copy-3" x="0.5" y="0.5" width="32" height="32" rx="3"></rect>
+                <g id="icons-/-web-application-/-heart" transform="translate(10.000000, 11.000000)">
+                    <path d="M11.7381716,0.752140673 C10.3467921,-0.394490128 8.27749602,-0.188243903 7.00037215,1.08606313 L6.50018646,1.58449151 L6,1.08606313 C4.72541592,-0.188243903 2.65358078,-0.394490128 1.26220129,0.752140673 C-0.332299279,2.06818802 -0.41608673,4.43019836 1.01083894,5.85673475 L5.92383036,10.7624485 C6.24120707,11.0791838 6.75662684,11.0791838 7.07400354,10.7624485 L11.986995,5.85673475 C13.4164596,4.43019836 13.3326722,2.06818802 11.7381716,0.752140673 Z" id="Path" stroke="none" fill="#ED5565"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

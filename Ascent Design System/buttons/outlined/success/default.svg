@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="33px" viewBox="0 0 120 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>buttons/outlined/success/default</title>
+    <desc>Created with Sketch.</desc>
+    <g id="buttons/outlined/success/default" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="buttons/success/rounded">
+            <rect id="Rectangle" stroke="#1C84C6" fill="#FFFFFF" x="0.5" y="0.5" width="119" height="32" rx="3"></rect>
+            <text id="Success" font-family="OpenSans-Regular, Open Sans" font-size="13" font-weight="normal" letter-spacing="0.10178558" fill="#1C84C6">
+                <tspan x="36.5495122" y="21">Success</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

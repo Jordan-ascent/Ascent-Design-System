@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="94px" height="29px" viewBox="0 0 94 29" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>buttons/rounded/hover/info/small</title>
+    <desc>Created with Sketch.</desc>
+    <g id="buttons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded-Buttons---hover" transform="translate(-400.000000, -89.000000)">
+            <g id="buttons/rounded/hover/info/small" transform="translate(400.000000, 89.000000)">
+                <g id="buttons/normal/info/small-copy">
+                    <g>
+                        <g id="buttons/normal/success/small-copy">
+                            <g id="buttons/normal/primary/small-copy">
+                                <g id="Group-2-Copy-3">
+                                    <rect id="Rectangle" fill="#23AEB0" x="0" y="0" width="94" height="29" rx="3"></rect>
+                                    <text id="Small" font-family="OpenSans-Regular, Open Sans" font-size="13" font-weight="normal" letter-spacing="0.10178558" fill="#FFFFFF">
+                                        <tspan x="30.6206012" y="18.9393939">Small</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

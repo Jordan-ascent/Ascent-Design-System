@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="115px" height="37px" viewBox="0 0 115 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>buttons/outlined/hover/danger/large</title>
+    <desc>Created with Sketch.</desc>
+    <g id="buttons/outlined/hover/danger/large" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="buttons/outlined/danger/large">
+            <g>
+                <g id="buttons/outlined/warning/large-">
+                    <g id="buttons/outlined/success/large">
+                        <g id="btn">
+                            <rect id="Rectangle" stroke="#D64E5C" fill="#FFFFFF" x="0.5" y="0.5" width="114" height="36" rx="3"></rect>
+                            <text id="Large" font-family="OpenSans-Regular, Open Sans" font-size="13" font-weight="normal" letter-spacing="0.10178558" fill="#D64E5C">
+                                <tspan x="40.3956825" y="24">Large</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

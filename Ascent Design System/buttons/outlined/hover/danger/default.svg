@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="33px" viewBox="0 0 120 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>buttons/outlined/hover/danger/default</title>
+    <desc>Created with Sketch.</desc>
+    <g id="buttons/outlined/hover/danger/default" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="buttons/outlined/danger">
+            <g id="buttons/danger/rounded">
+                <g id="buttons/danger">
+                    <g id="Group-2-Copy-8">
+                        <rect id="Rectangle" stroke="#D64E5C" fill="#FFFFFF" x="0.5" y="0.5" width="119" height="32" rx="3"></rect>
+                        <text id="Danger" font-family="OpenSans-Regular, Open Sans" font-size="13" font-weight="normal" letter-spacing="0.10178558" fill="#D64E5C">
+                            <tspan x="38.4810834" y="21">Danger</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

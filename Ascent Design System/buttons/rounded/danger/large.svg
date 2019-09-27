@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="115px" height="37px" viewBox="0 0 115 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>buttons/rounded/danger/large</title>
+    <desc>Created with Sketch.</desc>
+    <g id="buttons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Rounded-Buttons" transform="translate(-660.000000, -10.000000)">
+            <g id="buttons/rounded/danger/large" transform="translate(660.000000, 10.000000)">
+                <g id="buttons/default">
+                    <g>
+                        <g id="Group-2-Copy-2">
+                            <rect id="Rectangle" fill="#ED5565" x="0" y="0" width="115" height="37" rx="3"></rect>
+                            <text id="Large" font-family="OpenSans-Regular, Open Sans" font-size="13" font-weight="normal" letter-spacing="0.10178558" fill="#FFFFFF">
+                                <tspan x="40.8748492" y="22.9393939">Large</tspan>
+                            </text>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

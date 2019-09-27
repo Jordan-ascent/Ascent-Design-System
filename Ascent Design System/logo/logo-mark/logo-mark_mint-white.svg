@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="292px" height="253px" viewBox="0 0 292 253" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>logo-mark-deep-sea-bg</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.394422277 0.939714286 291.664456 0.939714286 291.664456 252.999722 0.394422277 252.999722"></polygon>
+        <polygon id="path-3" points="0 0.14461494 266.665234 0.14461494 266.665234 156 0 156"></polygon>
+    </defs>
+    <g id="logo-mark-deep-sea-bg" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-7">
+            <g id="Group-3">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M145.362638,0.939436264 L0.394422277,252.999722 L42.0306586,252.999722 C42.0306586,252.999722 51.117349,233.104469 55.3666804,230.880293 C57.5690102,227.013008 145.362638,72.9554692 145.362638,72.9554692 L228.665622,217.512997 L145.362638,217.512997 L145.362638,252.999722 L291.665011,252.999722 L145.362638,0.939436264 Z" id="Fill-1" fill="#FFFFFF" mask="url(#mask-2)"></path>
+            </g>
+            <g id="Group-6" transform="translate(0.000000, 97.000000)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <g id="Clip-5"></g>
+                <path d="M155.978002,156 C155.978002,53.7490187 266.665234,0.415505603 266.665234,0.415505603 C69.8876255,-7.38811409 -0.000832005447,156 -0.000832005447,156 L42.0237631,156 C42.0237631,156 78.8344574,82.2412401 164.991395,51.6699015 C164.991395,51.6699015 117.095615,98.0453025 117.095615,156 L155.978002,156 Z" id="Fill-4" fill="#9DD7CB" mask="url(#mask-4)"></path>
+            </g>
+        </g>
+    </g>
+</svg>

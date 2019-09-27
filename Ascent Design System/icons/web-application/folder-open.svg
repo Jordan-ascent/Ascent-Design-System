@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="9px" viewBox="0 0 13 9" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>icons/web-application/folder-open</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/web-application/folder-open" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M12.9253878,5.34592969 L11.290818,8.2558125 C11.0319707,8.71664117 10.5568934,9 10.0431563,9 L1.01618942,9 C0.598135525,9 0.33766152,8.52907031 0.548302183,8.15407031 L2.18287192,5.2441875 C2.44173339,4.78336215 2.91681474,4.5 3.43055618,4.5 L12.4575231,4.5 C12.875577,4.5 13.136051,4.97092969 12.9253878,5.34592969 Z M3.43055618,3.75 L10.8333353,3.75 L10.8333353,2.625 C10.8333353,2.00367188 10.3483179,1.5 9.75000177,1.5 L6.13889,1.5 L4.6944453,0 L1.08333353,0 C0.485017449,0 0,0.503671875 0,1.125 L0,7.64170313 L1.5590298,4.86628125 C1.94580244,4.17773438 2.66294666,3.75 3.43055618,3.75 Z" id="Shape" fill="#676A6C" fill-rule="nonzero"></path>
+    </g>
+</svg>

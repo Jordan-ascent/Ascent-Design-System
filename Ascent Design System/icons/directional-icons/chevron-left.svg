@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="13px" viewBox="0 0 13 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>icons/directional-icons/chevron-left</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/directional-icons/chevron-left" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="chevron-left" fill="#676A6C" fill-rule="nonzero">
+            <path d="M0.226165414,5.9963242 L6.0712782,0.228242009 C6.35308271,-0.0498630137 6.81022556,-0.0498630137 7.09203008,0.228242009 L7.77383459,0.90109589 C8.05533835,1.17890411 8.0556391,1.62885845 7.77503759,1.90726027 L3.14255639,6.5 L7.77473684,11.0930365 C8.0556391,11.3714384 8.05503759,11.8213927 7.77353383,12.0992009 L7.09172932,12.7720548 C6.80992481,13.0501598 6.35278195,13.0501598 6.07097744,12.7720548 L0.226165414,7.0036758 C-0.0556390977,6.72557078 -0.0556390977,6.27442922 0.226165414,5.9963242 Z" id="Path"></path>
+        </g>
+    </g>
+</svg>

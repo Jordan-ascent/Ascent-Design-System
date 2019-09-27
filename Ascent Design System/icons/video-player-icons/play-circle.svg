@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="13px" viewBox="0 0 13 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 58 (84663) - https://sketch.com -->
+    <title>icons/video-player-icons/play-circle</title>
+    <desc>Created with Sketch.</desc>
+    <g id="icons/video-player-icons/play-circle" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="play-circle" fill="#676A6C" fill-rule="nonzero">
+            <path d="M6.5,0 C2.90927419,0 0,2.90927419 0,6.5 C0,10.0907258 2.90927419,13 6.5,13 C10.0907258,13 13,10.0907258 13,6.5 C13,2.90927419 10.0907258,0 6.5,0 Z M9.53245968,7.12903226 L4.91955645,9.77620968 C4.50544355,10.0068548 3.98387097,9.71068548 3.98387097,9.22580645 L3.98387097,3.77419355 C3.98387097,3.29193548 4.50282258,2.99314516 4.91955645,3.22379032 L9.53245968,6.02822581 C9.96229839,6.26935484 9.96229839,6.89052419 9.53245968,7.12903226 Z" id="Shape"></path>
+        </g>
+    </g>
+</svg>
